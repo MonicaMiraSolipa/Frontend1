@@ -1,0 +1,63 @@
+
+#str1{
+    /* border: 1px solid black; */
+    height: 30px;
+    float: left;
+}
+
+.pag{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    line-height: 40px;
+
+}
+
+a{
+    font-size: 20px;
+}
+
+li{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    height: 35px;
+}
+
+header{
+    background-image: url('../img/fondo.jpg') ;
+    background-color: cadetblue;
+
+}
+.centrar{
+    text-align:center;
+    
+}
+footer{
+    background-color:grey;
+}
+
+h2{
+    background-color: grey;
+    margin-right: 150px;
+}
+
+div{
+    text-align: center;
+}
+
+#tamaño{
+    width:100px;
+    display:block;
+    margin:auto;
+}
+
+main{
+    margin-left: 150px
+
+}
+#altura{
+    height: 150px
+}
+
+#colorH{
+    background-color: grey;
+}
