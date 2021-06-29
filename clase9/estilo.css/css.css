@@ -1,0 +1,40 @@
+*{margin:0px;padding: 0px; box-sizing: border-box;}
+.encabezado{
+    background-color: black;
+    color: white;
+}
+
+nav{
+    background-color: orange;
+}
+
+.vertical > li{
+    /* border: 1px solid black; */
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+}
+span{
+    background-color:orange;
+}
+
+.fondo{
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+    height: 600px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+}
+
+body > p{
+    color: orange;
+}
+
+footer{
+    background-color: peru;
+}
+
+footer > h2{
+    font-size: 20px;
+}
